@@ -8,14 +8,14 @@
 ![image](https://user-images.githubusercontent.com/81805471/125594926-083d0cbd-a775-49bd-9638-c8e6909e1afc.png)
 
 # Table of Contents
--[Preview] (#preview)
--[Usage] (#usage)
--[Learning Points] (#learning-points)
--[Contribute] (#contribute)
-  -[Adding new features or fixing bugs] (#adding-new-features-or-fixing-bugs)
--[Feedback] (#feedback)
--[License] (#license)
--[Footer] (#footer)
+- [Preview](#preview)
+- [Usage](#usage)
+- [Learning Points](#learning-points)
+- [Contribute](#contribute)
+  - [Adding new features or fixing bugs](#adding-new-features-or-fixing-bugs)
+- [Feedback](#feedback)
+- [License](#license)
+- [Footer](#footer)
 
 # Usage
 [(Back to top)](#table-of-contents)
