@@ -11,6 +11,7 @@ This is a rather simple Library application that uses the localStorage() for a u
 <p align="center">
   <img src="https://user-images.githubusercontent.com/81805471/125594926-083d0cbd-a775-49bd-9638-c8e6909e1afc.png" alt="Storage"/>
 </p>
+
 # Table of Contents
 - [Preview](#preview)
 - [Usage](#usage)
@@ -30,6 +31,7 @@ git clone https://github.com/naduhz/odin-project-library.git
 ```
 
 and launching `index.html`.
+
 [(Back to top)](#table-of-contents)
 
 # Learning Points
