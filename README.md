@@ -38,16 +38,26 @@ and launching `index.html`.
 [(Back to top)](#table-of-contents)
 
 # Contribute
+Please feel free to make any suggestions, edits or raise issues. Forks and pull requests are always welcome. I am not likely to maintain the code from here on as I have to move on to other projects.
+
 [(Back to top)](#table-of-contents)
 
 ## Adding new features or fixing bugs
+As mentioned above, I am not likely to maintain the code and as such, if you would like to build on this project, you could always fork or clone this repository.
+
 [(Back to top)](#table-of-contents)
 
 # Feedback
+As this was done within a month of learning Javascript, the code is written in a very amateurish manner, so criticism is always appreciated with regard to how I can better write or refactor my code.
+
 [(Back to top)](#table-of-contents)
 
 # License
+Project License can be found [here](https://github.com/naduhz/odin-project-library/blob/main/LICENSE).
+
 [(Back to top)](#table-of-contents)
 
 # Footer
+I would like to thank [The Odin Project](https://www.theodinproject.com/) for providing the inspiration for this project.
+
 [(Back to top)](#table-of-contents)
