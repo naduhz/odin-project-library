@@ -8,8 +8,8 @@ This is a rather simple Library application that uses the localStorage() for a u
 <p align="center">
   <img src="https://user-images.githubusercontent.com/81805471/125594864-c7c5f8c1-3241-4428-9631-30c97a8e43e1.png" alt="Details"/>
 </p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/81805471/125594926-083d0cbd-a775-49bd-9638-c8e6909e1afc.png" alt="Storage"/>
+<p align='center'>
+  <img src='https://user-images.githubusercontent.com/81805471/126028161-55ee3844-6371-4582-b2d1-130e0cdc636f.png' alt='localstorage'/>
 </p>
 
 # Table of Contents
@@ -35,6 +35,14 @@ and launching `index.html`.
 [(Back to top)](#table-of-contents)
 
 # Learning Points
+There were 3 main takeaways from this project:
+
+1. Objects
+2. Order of operations
+3. localStorage()
+
+I learnt that objects are great for storing data for items with similar attributes, and the fact that methods can be added to objects makes retrieving the data even easier. The importance of getting the right order of operations was another key takeaway I had from this project as it became painfully apparent that adding event listeners under the wrong code block could result in some very undesired outcomes. For instance, when programming the toggle read button, I constantly encountered a bug where the toggle would affect the read states of all books, which was not what I had intended. It turned out that I had nested the event listener under the event listener for each book, which caused me a great amount of frustration. The localStorage() proved to be useful in maintaining the data that was created. However, a drawback is that data would have to be parsed as JSON objects, and any methods in custom objects would be lost in the process. Thankfully, I could just pass the data back into the constructor function to give the objects the intended attributes and methods.
+
 [(Back to top)](#table-of-contents)
 
 # Contribute
