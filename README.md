@@ -56,7 +56,7 @@ As mentioned above, I am not likely to maintain the code and as such, if you wou
 [(Back to top)](#table-of-contents)
 
 # Feedback
-As this was done within a month of learning Javascript, the code is written in a very amateurish manner, so criticism is always appreciated with regard to how I can better write or refactor my code.
+As this was done within a month of learning Javascript, the code is written in a very amateurish manner. Criticism is always appreciated with regard to how I can better write or refactor my code.
 
 [(Back to top)](#table-of-contents)
 
